@@ -1,6 +1,6 @@
 1. Install requirements: `pip install -r requirements.txt`
 2. Create and start containers: `docker-compose -f docker-compose.yaml up -d`
-3. Check services:
+3. Check services (for remote use, replace `localhost` with the desired ip address):
     - MLflow: http://localhost:5001
     - Airflow: http://localhost:8081 (user: `airflow`, password: `airflow`)
     - JupyterLab: http://localhost:8889 (token:`docker`)
