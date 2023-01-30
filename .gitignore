@@ -1,0 +1,4 @@
+/venv/
+/_Dockerfileold
+/notebooks/.ipynb_checkpoints/
+/logs/
