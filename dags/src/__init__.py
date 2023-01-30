@@ -1,3 +1,3 @@
-from .math import custom_sum
+from .mlflow_test import mlflow_test_func
 
-__all__ = ['custom_sum']
+__all__ = ['mlflow_test_func']

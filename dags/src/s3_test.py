@@ -1,7 +1,7 @@
 import boto3
 import os
 
-# Run mlflow_test.py first to upload the output.txt to S3
+# Run mlflow_test_func() from mlflow_test.py first to upload the helloworld.txt to S3
 
 os.environ["AWS_ACCESS_KEY_ID"] = "minioadmin"
 os.environ["AWS_SECRET_ACCESS_KEY"] = "minioadmin"

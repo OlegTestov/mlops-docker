@@ -2,3 +2,4 @@
 /_Dockerfileold
 /notebooks/.ipynb_checkpoints/
 /logs/
+/test.py
